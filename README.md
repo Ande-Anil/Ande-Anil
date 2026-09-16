@@ -146,8 +146,8 @@ Project:
 
 ## 📫 Contact
 
-* LinkedIn: **[Add your LinkedIn profile](#)**
-* Email: **Add your professional email**
+- * LinkedIn: **[Add your LinkedIn profile](#)**
+* Email: **andeanil1@gmail.com**
 
 ---
 
